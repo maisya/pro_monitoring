@@ -1,0 +1,182 @@
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\obj\Debug\Nexigo.csprojResolveAssemblyReference.cache
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Nexigo.dll.config
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Nexigo.dll
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Nexigo.pdb
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Microsoft.Owin.dll
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Nexigo.Resources.Server.dll
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Owin.dll
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Microsoft.Owin.xml
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\obj\Debug\Nexigo.dll
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\obj\Debug\Nexigo.pdb
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Microsoft.Owin.FileSystems.dll
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Microsoft.Owin.StaticFiles.dll
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Microsoft.Owin.FileSystems.xml
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Microsoft.Owin.StaticFiles.xml
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Newtonsoft.Json.dll
+D:\Navcore\Nexigo\Source\Nexigo-Template\Nexigo\bin\Newtonsoft.Json.xml
+D:\Navcore\Makers\Nexigo-Template\Nexigo\bin\Nexigo.dll.config
+D:\Navcore\Makers\Nexigo-Template\Nexigo\bin\Nexigo.dll
+D:\Navcore\Makers\Nexigo-Template\Nexigo\bin\Nexigo.pdb
+D:\Navcore\Makers\Nexigo-Template\Nexigo\bin\Microsoft.Owin.dll
+D:\Navcore\Makers\Nexigo-Template\Nexigo\bin\Microsoft.Owin.FileSystems.dll
+D:\Navcore\Makers\Nexigo-Template\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Navcore\Makers\Nexigo-Template\Nexigo\bin\Microsoft.Owin.StaticFiles.dll
+D:\Navcore\Makers\Nexigo-Template\Nexigo\bin\Newtonsoft.Json.dll
+D:\Navcore\Makers\Nexigo-Template\Nexigo\bin\Nexigo.Resources.Server.dll
+D:\Navcore\Makers\Nexigo-Template\Nexigo\bin\Owin.dll
+D:\Navcore\Makers\Nexigo-Template\Nexigo\bin\Microsoft.Owin.xml
+D:\Navcore\Makers\Nexigo-Template\Nexigo\bin\Microsoft.Owin.FileSystems.xml
+D:\Navcore\Makers\Nexigo-Template\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Navcore\Makers\Nexigo-Template\Nexigo\bin\Microsoft.Owin.StaticFiles.xml
+D:\Navcore\Makers\Nexigo-Template\Nexigo\bin\Newtonsoft.Json.xml
+D:\Navcore\Makers\Nexigo-Template\Nexigo\obj\Debug\Nexigo.csprojResolveAssemblyReference.cache
+D:\Navcore\Makers\Nexigo-Template\Nexigo\obj\Debug\Nexigo.dll
+D:\Navcore\Makers\Nexigo-Template\Nexigo\obj\Debug\Nexigo.pdb
+C:\Users\Hanafi\Desktop\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Nexigo.dll.config
+C:\Users\Hanafi\Desktop\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Nexigo.dll
+C:\Users\Hanafi\Desktop\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Nexigo.pdb
+C:\Users\Hanafi\Desktop\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.dll
+C:\Users\Hanafi\Desktop\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.FileSystems.dll
+C:\Users\Hanafi\Desktop\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hanafi\Desktop\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.StaticFiles.dll
+C:\Users\Hanafi\Desktop\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Newtonsoft.Json.dll
+C:\Users\Hanafi\Desktop\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Nexigo.Resources.Server.dll
+C:\Users\Hanafi\Desktop\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Owin.dll
+C:\Users\Hanafi\Desktop\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.xml
+C:\Users\Hanafi\Desktop\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.FileSystems.xml
+C:\Users\Hanafi\Desktop\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hanafi\Desktop\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.StaticFiles.xml
+C:\Users\Hanafi\Desktop\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Newtonsoft.Json.xml
+C:\Users\Hanafi\Desktop\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\obj\Debug\Nexigo.csprojResolveAssemblyReference.cache
+C:\Users\Hanafi\Desktop\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\obj\Debug\Nexigo.dll
+C:\Users\Hanafi\Desktop\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\obj\Debug\Nexigo.pdb
+E:\Project Fix\Project nexigo ASP.NET WEB API\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Nexigo.dll.config
+E:\Project Fix\Project nexigo ASP.NET WEB API\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Nexigo.dll
+E:\Project Fix\Project nexigo ASP.NET WEB API\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Nexigo.pdb
+E:\Project Fix\Project nexigo ASP.NET WEB API\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.dll
+E:\Project Fix\Project nexigo ASP.NET WEB API\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.FileSystems.dll
+E:\Project Fix\Project nexigo ASP.NET WEB API\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Project Fix\Project nexigo ASP.NET WEB API\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.StaticFiles.dll
+E:\Project Fix\Project nexigo ASP.NET WEB API\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Newtonsoft.Json.dll
+E:\Project Fix\Project nexigo ASP.NET WEB API\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Nexigo.Resources.Server.dll
+E:\Project Fix\Project nexigo ASP.NET WEB API\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Owin.dll
+E:\Project Fix\Project nexigo ASP.NET WEB API\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.xml
+E:\Project Fix\Project nexigo ASP.NET WEB API\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.FileSystems.xml
+E:\Project Fix\Project nexigo ASP.NET WEB API\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Project Fix\Project nexigo ASP.NET WEB API\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.StaticFiles.xml
+E:\Project Fix\Project nexigo ASP.NET WEB API\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Newtonsoft.Json.xml
+E:\Project Fix\Project nexigo ASP.NET WEB API\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\obj\Debug\Nexigo.csprojResolveAssemblyReference.cache
+E:\Project Fix\Project nexigo ASP.NET WEB API\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\obj\Debug\Nexigo.dll
+E:\Project Fix\Project nexigo ASP.NET WEB API\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\obj\Debug\Nexigo.pdb
+C:\Users\Hanafi\Desktop\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Nexigo.dll.config
+C:\Users\Hanafi\Desktop\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Nexigo.dll
+C:\Users\Hanafi\Desktop\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Nexigo.pdb
+C:\Users\Hanafi\Desktop\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.dll
+C:\Users\Hanafi\Desktop\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.FileSystems.dll
+C:\Users\Hanafi\Desktop\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hanafi\Desktop\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.StaticFiles.dll
+C:\Users\Hanafi\Desktop\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Newtonsoft.Json.dll
+C:\Users\Hanafi\Desktop\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Nexigo.Resources.Server.dll
+C:\Users\Hanafi\Desktop\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Owin.dll
+C:\Users\Hanafi\Desktop\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.xml
+C:\Users\Hanafi\Desktop\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.FileSystems.xml
+C:\Users\Hanafi\Desktop\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hanafi\Desktop\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.StaticFiles.xml
+C:\Users\Hanafi\Desktop\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Newtonsoft.Json.xml
+C:\Users\Hanafi\Desktop\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\obj\Debug\Nexigo.csprojResolveAssemblyReference.cache
+C:\Users\Hanafi\Desktop\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\obj\Debug\Nexigo.dll
+C:\Users\Hanafi\Desktop\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\obj\Debug\Nexigo.pdb
+E:\Project Fix\Project nexigo ASP.NET WEB API\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Nexigo.dll.config
+E:\Project Fix\Project nexigo ASP.NET WEB API\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Nexigo.dll
+E:\Project Fix\Project nexigo ASP.NET WEB API\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Nexigo.pdb
+E:\Project Fix\Project nexigo ASP.NET WEB API\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.dll
+E:\Project Fix\Project nexigo ASP.NET WEB API\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.FileSystems.dll
+E:\Project Fix\Project nexigo ASP.NET WEB API\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Project Fix\Project nexigo ASP.NET WEB API\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.StaticFiles.dll
+E:\Project Fix\Project nexigo ASP.NET WEB API\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Newtonsoft.Json.dll
+E:\Project Fix\Project nexigo ASP.NET WEB API\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Nexigo.Resources.Server.dll
+E:\Project Fix\Project nexigo ASP.NET WEB API\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Owin.dll
+E:\Project Fix\Project nexigo ASP.NET WEB API\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.xml
+E:\Project Fix\Project nexigo ASP.NET WEB API\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.FileSystems.xml
+E:\Project Fix\Project nexigo ASP.NET WEB API\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Project Fix\Project nexigo ASP.NET WEB API\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Microsoft.Owin.StaticFiles.xml
+E:\Project Fix\Project nexigo ASP.NET WEB API\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\bin\Newtonsoft.Json.xml
+E:\Project Fix\Project nexigo ASP.NET WEB API\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\obj\Debug\Nexigo.csprojResolveAssemblyReference.cache
+E:\Project Fix\Project nexigo ASP.NET WEB API\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\obj\Debug\Nexigo.dll
+E:\Project Fix\Project nexigo ASP.NET WEB API\CRUD Nexigo\makers-master-444659b0ec986f23b50125d792fa857f0a1ea415\Nexigo\obj\Debug\Nexigo.pdb
+C:\Users\Hanafi\Desktop\NexigoTemplate\Nexigo\bin\Nexigo.dll.config
+C:\Users\Hanafi\Desktop\NexigoTemplate\Nexigo\bin\Nexigo.dll
+C:\Users\Hanafi\Desktop\NexigoTemplate\Nexigo\bin\Nexigo.pdb
+C:\Users\Hanafi\Desktop\NexigoTemplate\Nexigo\bin\Microsoft.Owin.dll
+C:\Users\Hanafi\Desktop\NexigoTemplate\Nexigo\bin\Microsoft.Owin.FileSystems.dll
+C:\Users\Hanafi\Desktop\NexigoTemplate\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hanafi\Desktop\NexigoTemplate\Nexigo\bin\Microsoft.Owin.StaticFiles.dll
+C:\Users\Hanafi\Desktop\NexigoTemplate\Nexigo\bin\Newtonsoft.Json.dll
+C:\Users\Hanafi\Desktop\NexigoTemplate\Nexigo\bin\Nexigo.Resources.Server.dll
+C:\Users\Hanafi\Desktop\NexigoTemplate\Nexigo\bin\Owin.dll
+C:\Users\Hanafi\Desktop\NexigoTemplate\Nexigo\bin\Microsoft.Owin.xml
+C:\Users\Hanafi\Desktop\NexigoTemplate\Nexigo\bin\Microsoft.Owin.FileSystems.xml
+C:\Users\Hanafi\Desktop\NexigoTemplate\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hanafi\Desktop\NexigoTemplate\Nexigo\bin\Microsoft.Owin.StaticFiles.xml
+C:\Users\Hanafi\Desktop\NexigoTemplate\Nexigo\bin\Newtonsoft.Json.xml
+C:\Users\Hanafi\Desktop\NexigoTemplate\Nexigo\obj\Debug\Nexigo.csprojResolveAssemblyReference.cache
+C:\Users\Hanafi\Desktop\NexigoTemplate\Nexigo\obj\Debug\Nexigo.dll
+C:\Users\Hanafi\Desktop\NexigoTemplate\Nexigo\obj\Debug\Nexigo.pdb
+E:\♥File♥\NAVCORE\NexigoTemplate\Nexigo\bin\Nexigo.dll.config
+E:\♥File♥\NAVCORE\NexigoTemplate\Nexigo\bin\Nexigo.dll
+E:\♥File♥\NAVCORE\NexigoTemplate\Nexigo\bin\Nexigo.pdb
+E:\♥File♥\NAVCORE\NexigoTemplate\Nexigo\bin\Microsoft.Owin.dll
+E:\♥File♥\NAVCORE\NexigoTemplate\Nexigo\bin\Microsoft.Owin.FileSystems.dll
+E:\♥File♥\NAVCORE\NexigoTemplate\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\♥File♥\NAVCORE\NexigoTemplate\Nexigo\bin\Microsoft.Owin.StaticFiles.dll
+E:\♥File♥\NAVCORE\NexigoTemplate\Nexigo\bin\Newtonsoft.Json.dll
+E:\♥File♥\NAVCORE\NexigoTemplate\Nexigo\bin\Nexigo.Resources.Server.dll
+E:\♥File♥\NAVCORE\NexigoTemplate\Nexigo\bin\Owin.dll
+E:\♥File♥\NAVCORE\NexigoTemplate\Nexigo\bin\Microsoft.Owin.xml
+E:\♥File♥\NAVCORE\NexigoTemplate\Nexigo\bin\Microsoft.Owin.FileSystems.xml
+E:\♥File♥\NAVCORE\NexigoTemplate\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\♥File♥\NAVCORE\NexigoTemplate\Nexigo\bin\Microsoft.Owin.StaticFiles.xml
+E:\♥File♥\NAVCORE\NexigoTemplate\Nexigo\bin\Newtonsoft.Json.xml
+E:\♥File♥\NAVCORE\NexigoTemplate\Nexigo\obj\Debug\Nexigo.csprojResolveAssemblyReference.cache
+E:\♥File♥\NAVCORE\NexigoTemplate\Nexigo\obj\Debug\Nexigo.dll
+E:\♥File♥\NAVCORE\NexigoTemplate\Nexigo\obj\Debug\Nexigo.pdb
+D:\BELAJAR\NexigoTemplate\Nexigo\bin\Nexigo.dll.config
+D:\BELAJAR\NexigoTemplate\Nexigo\bin\Nexigo.dll
+D:\BELAJAR\NexigoTemplate\Nexigo\bin\Nexigo.pdb
+D:\BELAJAR\NexigoTemplate\Nexigo\bin\Microsoft.Owin.dll
+D:\BELAJAR\NexigoTemplate\Nexigo\bin\Microsoft.Owin.FileSystems.dll
+D:\BELAJAR\NexigoTemplate\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BELAJAR\NexigoTemplate\Nexigo\bin\Microsoft.Owin.StaticFiles.dll
+D:\BELAJAR\NexigoTemplate\Nexigo\bin\Newtonsoft.Json.dll
+D:\BELAJAR\NexigoTemplate\Nexigo\bin\Nexigo.Resources.Server.dll
+D:\BELAJAR\NexigoTemplate\Nexigo\bin\Owin.dll
+D:\BELAJAR\NexigoTemplate\Nexigo\bin\Microsoft.Owin.xml
+D:\BELAJAR\NexigoTemplate\Nexigo\bin\Microsoft.Owin.FileSystems.xml
+D:\BELAJAR\NexigoTemplate\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BELAJAR\NexigoTemplate\Nexigo\bin\Microsoft.Owin.StaticFiles.xml
+D:\BELAJAR\NexigoTemplate\Nexigo\bin\Newtonsoft.Json.xml
+D:\BELAJAR\NexigoTemplate\Nexigo\obj\Debug\Nexigo.csprojResolveAssemblyReference.cache
+D:\BELAJAR\NexigoTemplate\Nexigo\obj\Debug\Nexigo.csproj.CoreCompileInputs.cache
+D:\BELAJAR\NexigoTemplate\Nexigo\obj\Debug\Nexigo.dll
+D:\BELAJAR\NexigoTemplate\Nexigo\obj\Debug\Nexigo.pdb
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\bin\Nexigo.dll.config
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\bin\Nexigo.dll
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\bin\Nexigo.pdb
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\bin\Microsoft.Owin.dll
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\bin\Microsoft.Owin.FileSystems.dll
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\bin\Microsoft.Owin.StaticFiles.dll
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\bin\Newtonsoft.Json.dll
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\bin\Nexigo.Resources.Server.dll
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\bin\Owin.dll
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\bin\Microsoft.Owin.xml
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\bin\Microsoft.Owin.FileSystems.xml
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\bin\Microsoft.Owin.StaticFiles.xml
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\bin\Newtonsoft.Json.xml
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\obj\Debug\Nexigo.csprojResolveAssemblyReference.cache
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\obj\Debug\Nexigo.csproj.CoreCompileInputs.cache
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\obj\Debug\Nexigo.dll
+D:\BELAJAR\MAKERS\NexigoTemplate\Nexigo\obj\Debug\Nexigo.pdb

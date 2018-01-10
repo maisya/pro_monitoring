@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Project Monitoring" Class="ProjectMonitorDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=MAISYA\SQLEXPRESS;Initial Catalog=&quot;Project Monitoring&quot;;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="Project_MonitoringConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Employee" Member="Employees">
+    <Type Name="Employee">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SPV_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Location_Code" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Joined_date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Sex" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DIV_Code" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Unit_Code" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Staff_Level" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Job_Family" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Job_Title" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Expat" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Contract" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Balance" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Developer" Member="Developers">
+    <Type Name="Developer">
+      <Column Name="ITCM_SR_HPPID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Issue" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="Raise_Date" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="Attachment" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Solution" Type="System.String" DbType="NVarChar(300)" CanBeNull="true" />
+      <Column Name="Status" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="history" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ProjectManager" Member="ProjectManagers">
+    <Type Name="ProjectManager">
+      <Column Name="ITCM_SR_HPPID" Type="System.String" DbType="NVarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ProjectTitle" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Business_Analyst" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Web_Project_Identity" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Project_Controller" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Department" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Project_Type" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Key_User" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Star_Date" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Priority_Type" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Usage" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="Note" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="Total_Manhours" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="Ended" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="Ready_for_BA_Testing" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="UAT" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LIVE" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Total_Manhours1" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="Ended1" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Ready_for_BA_Testing1" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="UAT1" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LIVE1" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="history" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ScrumMaster" Member="ScrumMasters">
+    <Type Name="ScrumMaster">
+      <Column Name="ITCM_SR_HPPID" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Total_Manhours" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="Ended" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="Ready_for_BA_Testing" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="UAT" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LIVE" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Total_Manhours1" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="Ended1" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Ready_for_BA_Testing1" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="UAT1" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LIVE1" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Status" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Completion" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Last_Update" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Progress_History" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Teams" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Conf_Type" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Conf_Value" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="history" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="Attachment" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
